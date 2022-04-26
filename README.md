@@ -2,7 +2,15 @@
  Memories Storing Site
 </h1>
 
-This project is from a tutorial on YouTube. But I tried my best to follow and understand the *process and codes*. This site is still ** under development. **
+A project that stores **memories (memos)** of users. Each post contains data such as -
+- Creator
+- Title
+- Message
+- Tags
+- Date
+- Image
+
+>> This project is from a tutorial on YouTube. But I tried my best to follow and understand the *process and codes*. This site is still **under development.**
 
 # <samp> Technologies Used </samp>
 
