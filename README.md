@@ -12,6 +12,9 @@ A project that stores **memories (memos)** of users. Each post contains data suc
 
 >> This project is from a tutorial on YouTube. But I tried my best to follow and understand the *process and codes*. This site is still **under development.**
 
+# <samp> WorkFlow Diagram for this project </samp>
+#### https://drive.google.com/file/d/1pCOFRkBZo2vY_1UEW9mHxy1r4SyRfX-A/view?usp=sharing
+
 # <samp> Technologies Used </samp>
 
 * React
